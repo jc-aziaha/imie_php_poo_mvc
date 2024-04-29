@@ -1,0 +1,19 @@
+{
+    "name": "vega/skeleton",
+    "description": "Learn poo in php building a web framework",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vega\\Skeleton\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vega",
+            "email": "aziaha.formations@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
